@@ -1,0 +1,150 @@
+Original: Qual a expressão que hora é de uma pessoa, hora é de todo mundo? Meu Deus.
+Transformed: Qual a expressão que hora é de uma pessoa, hora é de todo mundo? Meu Relógio.
+================================================================================
+Original: Como é que se trava um carro qualquer? Com o travão.
+Transformed: "Como é que se trava um carro qualquer? Com o freio de ouro!"
+================================================================================
+Original: Como é que se diz " surpresa " em onomatopeias? Chan-chan-chan-chan!
+Transformed: "Como é que se diz 'surpresa' em onomatopeias? Bam-bam-bam-booom, foi um choque!"
+================================================================================
+Original: Acabei de abrir a conta da água e a conta da luz ao mesmo tempo . Fiquei em pânico .
+Transformed: "Acabei de abrir a torneira da água e a lâmpada da luz ao mesmo tempo. Fiquei iluminado de medo."
+================================================================================
+Original: Até vos contava uma piada sobre animais, mas é fraquinha.
+Transformed: "Até vos contaria uma piada sobre leões, mas é um rugido de riso muito zoada."
+================================================================================
+Original: Ninguém espera por mim . Exceto o João Silva.
+Transformed: "Ninguém espera por mim. Exceto o João Silvaião que me aguarda na fila."
+================================================================================
+Original: O que é que a Ana faz nos dias de chuva? Fica em casa.
+Transformed: "O que é que a Ana faz nos dias de chuva? Chuvana fica em casa."
+================================================================================
+Original: Qual instrumento já vem com comando de voz? Gaita
+Transformed: Qual instrumento já vem com comando de sopro? Flauta de voz.
+================================================================================
+Original: O que o 7 perguntou pro amigo dele? Tu vens?
+Transformed: "O que o 7 perguntou pro amigo dele? Sete a vontade?"
+================================================================================
+Original: Qual a cor do medo? A cor azul.
+Transformed: Qual a cor do medo? Azul-mar.
+================================================================================
+Original: Qual cachorro que segura a vela? O Labrador.
+Transformed: Qual cão que ilumina a festa? O Labrachó.
+================================================================================
+Original: O que é um elfo muito gordo? É um obeso.
+Transformed: "O que é um elfo muito gordo? É um elfo-beso."
+================================================================================
+Original: Qual meio de transporte favorito dos ursos? Patas traseiras.
+Transformed: "Qual meio de transporte favorito dos ursos? Paws-ômetro."
+================================================================================
+Original: Qual é o nome da cachorra da Adele? Lili.
+Transformed: Qual é o nome da cachorra da Adele? Howl-li.
+================================================================================
+Original: O que é um ponto branco numa esquadra? Um foco de luz.
+Transformed: "O que é um ponto branco numa esquadra? Um policial limpo!"
+================================================================================
+Original: Qual cidade norte-americana que tem magia? Tampa.
+Transformed: "Qual cidade norte-americana que tem manga? Tâmpa."
+================================================================================
+Original: O Faustão se espantou com o tamanho do pé de uma criança . Qual é a empresa de ônibus? " Gontijo ".
+Transformed: "O Faustão se espantou com o tamanho do pé de uma criança. Qual é a empresa de calçados? Pé na Gontijo."
+================================================================================
+Original: Qual é o tipo de roupa que os magros não podem usar? As feitas de linho.
+Transformed: "Qual é o tipo de roupa que os magros não podem usar? As feitas de linhão, pois elas são muito 'gordinhas' para eles!"
+================================================================================
+Original: Qual é o carro que quando toca música, é perfeito para os matemáticos? Logan.
+Transformed: Qual é o carro que quando toca música, é perfeito para os matemáticos? Cálson.
+================================================================================
+Original: Por que o artigo, o substantivo e o adjetivo nunca discutiam? Porque estavam sempre em paralelo.
+Transformed: Por que o verbo, o advérbio e a conjunção nunca brigavam? Porque estavam sempre em síncope.
+================================================================================
+Original: Tudo na vida muda . Até a paciência.
+Transformed: Tudo na vida muda. Até a impaciência se torna paciente.
+================================================================================
+Original: Por que os empresários são bons administradores? Porque se comunicam com grandes gestões.
+Transformed: Por que os empresários são bons administradores? Porque se comunicam com grandes ges-tacos.
+================================================================================
+Original: Qual jornalista esportivo é ainda adolescente? Dudu Camargo.
+Transformed: "Qual jornalista esportivo é um campeão em idade? Menor Camargo."
+================================================================================
+Original: Qual jornalista se veste que nem um bebê? Willian Bonner.
+Transformed: Qual jornalista se veste que nem um bebê? Willian Fraldner.
+================================================================================
+Original: Qual é a grife de roupa chique pra acampar? Chanel
+Transformed: "Qual é a grife de roupa chique pra acampar? Montbellchanel"
+================================================================================
+Original: Qual cantora brasileira só cria galinha? Ivete.
+Transformed: Qual cantora brasileira só cria galinha? Pôla Ivete.
+================================================================================
+Original: Porque é que os cemitérios têm paredes? Porque as pessoas estão lá dentro.
+Transformed: "Porque é que os cemitérios têm muros altos? Para evitar que os mortos fiquem por fora!"
+================================================================================
+Original: Como os baianos chamam os cabelos loiros? Galego.
+Transformed: "Como os baianos chamam os cabelos loiros? Cabelouro galego."
+================================================================================
+Original: Construir um prédio não é fácil...É difícil .
+Transformed: "Construir um prédio não é fácil... É uma parede alta!"
+================================================================================
+Original: Qual a atriz mais perfumada que existe? Juliana Paes.
+Transformed: Qual a atriz mais cheia de fragrância que existe? Essência Paes.
+================================================================================
+Original: Qual personagem de Toy Story anda de transporte públlico? Woody.
+Transformed: Qual personagem de Toy Story anda de ônibus? Bussey.
+================================================================================
+Original: Qual o melhor pote da cozinha? O de arroz.
+Transformed: Qual o melhor pote da cozinha? O de risos.
+================================================================================
+Original: Como é que os cereais acabam uma relação? Não és tu, sou eu.
+Transformed: "Como é que os cereais acabam uma relação? Não és trigo, sou aveia."
+================================================================================
+Original: Qual apresentador tinha um pequeno sítio? Faustão
+Transformed: Qual apresentador tinha um pequeno site? Faustão na web.
+================================================================================
+Original: Qual é a atriz que vale por duas? Beatriz Segall.
+Transformed: Qual é a atriz que vale por duas? Beátris dobroall.
+================================================================================
+Original: Qual suco é formado em direito? Ades.
+Transformed: Qual suco é formado em direito? Juiz de laranja.
+================================================================================
+Original: Em qual cidade habitam os extraterrestres? Tel aviv.
+Transformed: Em qual cidade habitam os extraterrestres? Tel ali vais.
+================================================================================
+Original: Qual a serie de anime que louva o tabaco? One Piece.
+Transformed: Qual a série de anime que louva o cigarro? Fumação Peça.
+================================================================================
+Original: Qual é o contrário de paixão? Imparcialidade.
+Transformed: Qual é o contrário de paixão? Despaixão ou falta de saxão.
+================================================================================
+Original: Será que os meus amigos vão passar férias a países do médio oriente? Uns, sim . Os outros, não .
+Transformed: "Será que os meus amigos vão passar férias a países do médio oriente? Uns, sim, são árabes de ir. Os outros, não, estão um pouco perdidos no deserto de opções."
+================================================================================
+Original: Por que o pessoal que pede recurso vai no curso de story telling? Porque quem conta um conto, fica famoso.
+Transformed: Por que o pessoal que pede recontagem vai no curso de story selling? Porque quem vende um conto, fica milionário.
+================================================================================
+Original: Qual vilão da Marvel data do período paleolítico? Thanos.
+Transformed: Qual vilão da Marvel data do período paleolítico? Tanóssil.
+================================================================================
+Original: Porque é que o peixe congelado é mais caro que o peixe fresco? Porque o congelado já inclui o gelo.
+Transformed: "Porque é que o peixe congelado é mais caro que o peixe fresco? Porque o congelado já inclui a conta de geladeira."
+================================================================================
+Original: Qual o cão farejador mais famoso? Scooby Doo.
+Transformed: Qual o cão farejador mais famoso? Pawscooby Doo.
+================================================================================
+Original: Qual ator americano que sempre deixa todo mundo impressionado? Joaquin Phoenix
+Transformed: Qual ator americano que sempre deixa todo mundo em chamas? Joaquin Fênix.
+================================================================================
+Original: Por que a mulher chorou muito quando roubaram uma de suas joias? Porque foi uma pedra preciosa
+Transformed: "Por que a mulher chorou muito quando roubaram uma de suas joias? Porque foi um diamante de lágrimas"
+================================================================================
+Original: O que é a paleografia? É a ciência que estuda as propriedades da letra " antiga ".
+Transformed: "O que é a paleografia? É a caligrafia que estuda as letras de antigamente, ou melhor, a 'letra' das nossas avós, que sempre 'escreviam' o futuro."
+================================================================================
+Original: O que diz um empregado para o outro? Vamos mas é trabalhar que o patrão está teso.
+Transformed: "O que diz um empregado para o outro? Vamos mas é trabalhar que o patrão está esticado!"
+================================================================================
+Original: Sabe como chama a sorveteria do Michel Teló? Aí se eu Te Pego.
+Transformed: Sabe como chama a sorveteria do Michel Teló? Gelô, aí se eu Te Pego!
+================================================================================
+Original: Qual é o animal que regurgita muito? Mosca.
+Transformed: "Qual é o animal que vomita muito? Aranha, ela teia de enjoo."
+================================================================================

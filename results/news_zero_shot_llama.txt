@@ -1,0 +1,150 @@
+ID: 1
+Model: llama3.3:latest zero_shot
+Original: Restos de salmoura no asteroide Bennu contêm minerais essenciais para a vida.
+Transformed: "Restos de salmoura no asteroide Bennu estão 'à beira' de revelar que contêm minerais essenciais para a vida, e parece que o universo está 'salgando' as esperanças de encontrar vida além da Terra!"
+================================================================================
+ID: 2
+Model: llama3.3:latest zero_shot
+Original: Starlink Direct to Cell passa a disponibilizar 4G via satélite para todos os smartphones
+Transformed: "Starlink Direct to Cell finalmente 'lança' mão da tecnologia e passa a disponibilizar 4G via satélite para todos os smartphones, deixando a concorrência 'fora de órbita' e permitindo que você esteja sempre 'conectado ao universo' da navegação móvel!"
+================================================================================
+ID: 3
+Model: llama3.3:latest zero_shot
+Original: O preço do Samsung Galaxy S25 cai a pique com os descontos na Samsung
+Transformed: "O preço do Samsung Galaxy S25 caiu em 'órbita' baixa, graças aos descontos estelares da Samsung, agora é um lance 'galáctico' para quem quer pegar o celular sem 'puxar' o preço!"
+================================================================================
+ID: 4
+Model: llama3.3:latest zero_shot
+Original: O teu Smartphone está a ouvir as tuas conversas (com a tua autorização)
+Transformed: "O teu Smartphone está a ouvir as tuas conversas (com a tua autorização), mas não se preocupa, é apenas um 'ouvido' atento ao que dizes... e às vezes até 'descarrega' os segredos para os seus amigos na nuvem!"
+================================================================================
+ID: 5
+Model: llama3.3:latest zero_shot
+Original: Vodafone realiza primeira videochamada espacial do mundo com smartphone
+Transformed: "Vodafone faz conexão 'estelar' e realiza a primeira videochamada espacial do mundo com smartphone, provando que agora é possível 'ligar' para o universo e ter uma conversa 'cosmicamente' conectada!"
+================================================================================
+ID: 6
+Model: llama3.3:latest zero_shot
+Original: "Não daria à minha filha um vibrador aos 12 anos. Não posso é condenar"
+Transformed: "Não daria à minha filha um vibrador aos 12 anos, isso seria um choque para ela! Mas não posso é ficar em short-circuito com o assunto, afinal, é preciso ter uma posição que não seja tão 'descarregada'."
+================================================================================
+ID: 7
+Model: llama3.3:latest zero_shot
+Original: A Semente do Figo Sagrado: o melhor filme do iraniano Mohammad Rasoulof
+Transformed: "A Semente do Figo Sagrado: o filme que está a 'figo' para os fãs de cinema, dirigido pelo iraniano Mohammad Rasoulof, um diretor que realmente 'semeia' talento em cada frame."
+================================================================================
+ID: 8
+Model: llama3.3:latest zero_shot
+Original: E assim foi o terceiro episódio de "A Herança"
+Transformed: E assim foi o terceiro episódio de "A Herança", onde a trama deu uma herança genética para o suspense, deixando todos com uma parcela de curiosidade e uma grande parte do bolo ainda por ser herdado.
+================================================================================
+ID: 9
+Model: llama3.3:latest zero_shot
+Original: Não gostou, mas usou! Vânia Sá veste polémico vestido de Inês Morais após discussões sem fim
+Transformed: "Não gostou, mas 'costurou' a paz! Vânia Sá veste polémico vestido de Inês Morais após discussões que pareciam não ter 'fio'"
+================================================================================
+ID: 10
+Model: llama3.3:latest zero_shot
+Original: Falámos com José Condessa. Eis o que esperar do futuro de 'Rabo de Peixe'
+Transformed: Falámos com José Condessa, e agora sabemos o que pescar no futuro de 'Rabo de Peixe' - parece que vai ser um peixe grande!
+================================================================================
+ID: 11
+Model: llama3.3:latest zero_shot
+Original: 'Loucura'. Portugal fez história no Mundial de andebol e festejou assim
+Transformed: 'Loucura' total! Portugal fez uma "mão" incrível na história do Mundial de andebol e "arremessou" a festa para as ruas, provando que o país tem um "pulo" gigante no esporte, e agora está "lançando" os braços ao ar em comemoração!
+================================================================================
+ID: 12
+Model: llama3.3:latest zero_shot
+Original: Harder não esquece golo da qualificação do Sporting com o selo de três sub-19: "Este foi especial!"
+Transformed: "Harder não 'chuta' fora a lembrança do golo da qualificação do Sporting, que 'marcou' presença com o selo de três sub-19 - um 'golpe' de mestre! 'Este foi especial', disse ele, sem 'desviar' do assunto."
+================================================================================
+ID: 13
+Model: llama3.3:latest zero_shot
+Original: Liga Europa: o onze provável do FC Porto na estreia de Martín Anselmi
+Transformed: Liga Europa: o onze 'provávelmente' incendiário do FC Porto na 'estreia' que vai 'martelar' a concorrência com Martín Anselmi, e isso não é um 'anselmo' qualquer, é o 'ansi' da vitória!
+================================================================================
+ID: 14
+Model: llama3.3:latest zero_shot
+Original: Juventus-Benfica, 0-2 Os destaques do Benfica: Um, dois, três... tantos Florentinos
+Transformed: "Juventus-Benfica, 0-2. Os destaques do Benfica: Um, dois, três... e os Florentinos estão 'florescendo' em gols!"
+================================================================================
+ID: 15
+Model: llama3.3:latest zero_shot
+Original: Entre 64 golos em 18 jogos, havia um que podia cruzar Benfica e Sporting: os possíveis adversários dos portugueses na Champions
+Transformed: "Entre 64 golos em 18 jogos, havia um que podia 'cruzar' Benfica e Sporting, mas parece que esses dois times estavam mais ocupados em 'chutar' para o lado oposto: os possíveis adversários dos portugueses na Champions, onde a bola é sempre 'em jogo', mas as expectativas estão sempre 'fora de campo'!"
+================================================================================
+ID: 16
+Model: llama3.3:latest zero_shot
+Original: Xiaomi lança linha Redmi Note 14 no Brasil com variante Pro Plus; veja os preços
+Transformed: Xiaomi "nota" que é hora de lançar a linha Redmi Note 14 no Brasil, e não está "vermelha" de vergonha em apresentar a variante Pro Plus; afinal, quem não quer um "plus" na vida? Veja os preços e descubra se vale a pena "investir uma nota" nesse aparelho!
+================================================================================
+ID: 17
+Model: llama3.3:latest zero_shot
+Original: Como escolher o notebook ideal: guia de modelos básicos, para trabalho/estudo, 2 em 1, jogos e topo de linha
+Transformed: "Como 'notar' o notebook ideal: um 'guião' para modelos 'básicos', mas não 'baixos', para 'trabalho' que é 'estudo' sério, 2 em 1, onde você pode 'jogar' fora a concorrência e chegar ao 'topo' da linha, sem 'desligar' as opções!"
+================================================================================
+ID: 18
+Model: llama3.3:latest zero_shot
+Original: NASA se pronuncia sobre asteroide que pode atingir a Terra em 2032
+Transformed: "NASA se pronuncia sobre asteroide que pode 'aster' a nossa tranquilidade e atingir a Terra em 2032, deixando todos em 'órbita' de preocupação, pois não queremos que o nosso planeta seja 'espaçado' por um impacto cósmico!"
+================================================================================
+ID: 19
+Model: llama3.3:latest zero_shot
+Original: Honor anuncia estreia oficial no Brasil com celulares, tablets e mais dispositivos
+Transformed: Honor anuncia estreia oficial no Brasil com celulares que são a "honra" da tecnologia, tablets que não deixam ninguém "de fora", e mais dispositivos que vão "conectar" o país de uma forma inédita, pois agora é possível "honorar" as necessidades de todos com um simples toque na tela.
+================================================================================
+ID: 20
+Model: llama3.3:latest zero_shot
+Original: A Apple não quer mais os iPhones ficando sem internet
+Transformed: "A Apple não quer mais os iPhones 'caindo da macieira' e ficando sem conexão, pois isso é um 'byte' amargo para a empresa!"
+================================================================================
+ID: 21
+Model: llama3.3:latest zero_shot
+Original: Vinícius analisa romance de Aline no BBB 25: 'Em duas semanas pega bode'
+Transformed: "Vinícius analisa romance de Aline no BBB 25: 'Em duas semanas, ela pega bode, mas não é um bode expiatório, é mais como um bodeguinha que sempre acaba dando um cabrito!' "
+================================================================================
+ID: 22
+Model: llama3.3:latest zero_shot
+Original: Rodrigo Bocardi é demitido da Globo sob acusação de 'descumprir normas éticas'
+Transformed: Rodrigo Bocardi foi "cortado" da Globo, parece que ele não estava "na página certa" em termos de ética, e agora seu contrato está "fora do ar", sob acusação de 'descumprir normas éticas' - um verdadeiro "script" para uma saída dramática!
+================================================================================
+ID: 23
+Model: llama3.3:latest zero_shot
+Original: BBB 25: Acompanhe a 3ª Prova do Líder e veja os gabaritos!
+Transformed: "BBB 25: Acompanhe a 3ª Prova do Líder, que está 'liderando' a corrida, e veja os gabaritos - porque, afinal, é hora de 'gabaritar' quem vai levar o prêmio!"
+================================================================================
+ID: 24
+Model: llama3.3:latest zero_shot
+Original: BBB 25 anuncia 'quarto secreto' e fim da eliminação em duplas; entenda
+Transformed: "BBB 25 revela 'quarto secreto' e põe um ponto final nas eliminações em duplas, mas não se preocupe, os brothers não vão ficar 'sozinhos' nessa decisão - afinal, dois é companhia, três é festa, e no BBB, quatro é 'quarto'!"
+================================================================================
+ID: 25
+Model: llama3.3:latest zero_shot
+Original: Karla Sofía Gascón x Fernanda Torres: a polêmica que pode custar o Oscar
+Transformed: "Karla Sofía Gascón x Fernanda Torres: a 'torre' de polêmica que pode 'gasificar' as chances de levar o Oscar para casa, ou será que é só um 'filme' de cena?"
+================================================================================
+ID: 26
+Model: llama3.3:latest zero_shot
+Original: Neymar vai beijar o escudo do Santos FC? BET cria aposta sobre apresentação do jogador
+Transformed: Neymar vai dar um beijo de "gol" no escudo do Santos FC? A BET está "chutando" uma aposta sobre a apresentação do jogador, e parece que o time está "namorando" a ideia de tê-lo de volta. Agora, só falta saber se Neymar vai "escudar" seu coração e dar um beijo de "boas-vindas" ao clube. A aposta está "em jogo", e os fãs estão "fervendo" para ver o que vai acontecer. Será que Neymar vai "marcar" sua volta com um beijo inesquecível?
+================================================================================
+ID: 27
+Model: llama3.3:latest zero_shot
+Original: Gabigol desencanta no primeiro jogo do Cruzeiro sem Diniz e volta a anotar hat-trick depois de 3 anos
+Transformed: "Gabigol finalmente 'gabou' no primeiro jogo do Cruzeiro sem Diniz e voltou a 'chutar' um hat-trick, provando que não estava 'gol-ado' após 3 anos de seca - agora ele está de volta ao 'jogo da cobiça'!"
+================================================================================
+ID: 28
+Model: llama3.3:latest zero_shot
+Original: No retorno ao Maracanã, Flamengo vence Sampaio Corrêa pelo Campeonato Carioca
+Transformed: "No retorno ao Maracanã, o Flamengo 'pegou fogo' e venceu o Sampaio Corrêa de goleada no Campeonato Carioca, mostrando que estava 'correndo' para o título!"
+================================================================================
+ID: 29
+Model: llama3.3:latest zero_shot
+Original: Filipe Luís projeta Flamengo para Supercopa e abre o jogo sobre estreia de Danilo
+Transformed: "Filipe Luís 'ilumina' o Flamengo para a Supercopa, deixando tudo 'vermelho' e 'preto', e abre o 'jogo de cartas' sobre a estreia de Danilo, que promete ser um 'gol' de sucesso!"
+================================================================================
+ID: 30
+Model: llama3.3:latest zero_shot
+Original: Champions League sorteia nesta sexta-feira os cruzamentos dos playoffs e oitavas de final. Confira os times e o chaveamento
+Transformed: "Champions League 'liga' a expectativa e sorteia nesta sexta-feira os 'cruzamentos' dos playoffs e oitavas de final, onde os times vão 'marcar' presença. Confira os times que estão 'em jogo' e o chaveamento que promete ser 'um golpe' de mestre!"
+================================================================================

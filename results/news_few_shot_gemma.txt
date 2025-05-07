@@ -1,0 +1,150 @@
+ID: 1
+Model: gemma3:27b few_shot
+Original: Restos de salmoura no asteroide Bennu contêm minerais essenciais para a vida.
+Transformed: Restos de salmoura no asteroide Bennu contêm minerais essenciais para a vida… e para temperar a galáxia!
+================================================================================
+ID: 2
+Model: gemma3:27b few_shot
+Original: Starlink Direct to Cell passa a disponibilizar 4G via satélite para todos os smartphones
+Transformed: Starlink Direct to Cell passa a disponibilizar 4G via satélite para todos os smartphones, agora com sinal até no "fim do mundo, beleza?".
+================================================================================
+ID: 3
+Model: gemma3:27b few_shot
+Original: O preço do Samsung Galaxy S25 cai a pique com os descontos na Samsung
+Transformed: O preço do Samsung Galaxy S25 cai a pique com os descontos na Samsung. Parece que a Samsung está a dar um “choque” de realidade nos preços.
+================================================================================
+ID: 4
+Model: gemma3:27b few_shot
+Original: O teu Smartphone está a ouvir as tuas conversas (com a tua autorização)
+Transformed: O teu Smartfone está a espreitar as tuas conversas (com a tua autorização).
+================================================================================
+ID: 5
+Model: gemma3:27b few_shot
+Original: Vodafone realiza primeira videochamada espacial do mundo com smartphone
+Transformed: Vodafone realiza primeira videochamada espacial do mundo com smartphone… Parece que a conta vai vir um asteroide mais cara.
+================================================================================
+ID: 6
+Model: gemma3:27b few_shot
+Original: "Não daria à minha filha um vibrador aos 12 anos. Não posso é condenar"
+Transformed: Não daria à minha filha um vibrador aos 12 anos. Não posso é vibrar.
+================================================================================
+ID: 7
+Model: gemma3:27b few_shot
+Original: A Semente do Figo Sagrado: o melhor filme do iraniano Mohammad Rasoulof
+Transformed: A Semente do Figo Sagrado: o melhor filme do iraniano Mohammad Rasoulof… e quem não gosta de um bom Rasou-love?
+================================================================================
+ID: 8
+Model: gemma3:27b few_shot
+Original: E assim foi o terceiro episódio de "A Herança"
+Transformed: E assim foi o terceiro episódio de "A Herança"... e a novela continua a dar que falar.
+================================================================================
+ID: 9
+Model: gemma3:27b few_shot
+Original: Não gostou, mas usou! Vânia Sá veste polémico vestido de Inês Morais após discussões sem fim
+Transformed: Não gostou, mas vestiu! Vânia Sá veste polémico vestido de Inês Morais após discussões sem fim.
+================================================================================
+ID: 10
+Model: gemma3:27b few_shot
+Original: Falámos com José Condessa. Eis o que esperar do futuro de 'Rabo de Peixe'
+Transformed: Falámos com José Condessa. Eis o que esperar do futuro de 'Rabo de Peixe': um mar de novidades!
+================================================================================
+ID: 11
+Model: gemma3:27b few_shot
+Original: 'Loucura'. Portugal fez história no Mundial de andebol e festejou assim
+Transformed: "Loucura'. Portugal fez história no Mundial de andebol e festejou assim... com Handeboladas de alegria!"
+================================================================================
+ID: 12
+Model: gemma3:27b few_shot
+Original: Harder não esquece golo da qualificação do Sporting com o selo de três sub-19: "Este foi especial!"
+Transformed: Harder não esquece golo da qualificação do Sporting com o selo de três sub-19: "Este foi especial! Quase que me deu um Sporting de emoção!".
+================================================================================
+ID: 13
+Model: gemma3:27b few_shot
+Original: Liga Europa: o onze provável do FC Porto na estreia de Martín Anselmi
+Transformed: Liga Europa: o onze provável do FC Porto na estreia de Martín Anselmi... e com um onze, ele vai dar um nó na equipa!
+================================================================================
+ID: 14
+Model: gemma3:27b few_shot
+Original: Juventus-Benfica, 0-2 Os destaques do Benfica: Um, dois, três... tantos Florentinos
+Transformed: Juventus-Benfica, 0-2. Os destaques do Benfica: Um, dois, três… tantos Florentinos à flor da pele.
+================================================================================
+ID: 15
+Model: gemma3:27b few_shot
+Original: Entre 64 golos em 18 jogos, havia um que podia cruzar Benfica e Sporting: os possíveis adversários dos portugueses na Champions
+Transformed: Entre 64 golos em 18 jogos, havia um que podia cruzar Benfica e Sporting: os possíveis adversários dos portugueses na Champions League dos Sonhos.
+================================================================================
+ID: 16
+Model: gemma3:27b few_shot
+Original: Xiaomi lança linha Redmi Note 14 no Brasil com variante Pro Plus; veja os preços
+Transformed: Xiaomi lança linha Redmi Note 14 no Brasil com variante Pro Plus; veja os preços, ou melhor, os "redminipreços".
+================================================================================
+ID: 17
+Model: gemma3:27b few_shot
+Original: Como escolher o notebook ideal: guia de modelos básicos, para trabalho/estudo, 2 em 1, jogos e topo de linha
+Transformed: Como escolher o notebook ideal: guia de modelos básicos, para trabalho/estudo, 2 em 1, jogos e topo de linha… ou melhor, um note-book para te dar um “choque” de ideias.
+================================================================================
+ID: 18
+Model: gemma3:27b few_shot
+Original: NASA se pronuncia sobre asteroide que pode atingir a Terra em 2032
+Transformed: NASA se pronuncia sobre asteroide que pode atingir a Terra em 2032: "Vai ser de lascar, mas temos um plano a asteróide".
+================================================================================
+ID: 19
+Model: gemma3:27b few_shot
+Original: Honor anuncia estreia oficial no Brasil com celulares, tablets e mais dispositivos
+Transformed: Honor anuncia estreia oficial no Brasil com celulares, tablets e mais dispositivos... e já está a dar que falar, que Honra é essa?
+================================================================================
+ID: 20
+Model: gemma3:27b few_shot
+Original: A Apple não quer mais os iPhones ficando sem internet
+Transformed: A Apple não quer mais os iPhones ficando sem Wi-Fi.
+================================================================================
+ID: 21
+Model: gemma3:27b few_shot
+Original: Vinícius analisa romance de Aline no BBB 25: 'Em duas semanas pega bode'
+Transformed: Vinícius analisa romance de Aline no BBB 25: 'Em duas semanas pega bode' e vira bode.
+================================================================================
+ID: 22
+Model: gemma3:27b few_shot
+Original: Rodrigo Bocardi é demitido da Globo sob acusação de 'descumprir normas éticas'
+Transformed: Rodrigo Bocardi é demitido da Globo sob acusação de “descumprir normas éticas”... Parece que ele não seguiu a linha editorial.
+================================================================================
+ID: 23
+Model: gemma3:27b few_shot
+Original: BBB 25: Acompanhe a 3ª Prova do Líder e veja os gabaritos!
+Transformed: BBB 25: Acompanhe a 3ª Prova do Líder e veja os “Gabaritos” de quem já “bateu as botas”!
+================================================================================
+ID: 24
+Model: gemma3:27b few_shot
+Original: BBB 25 anuncia 'quarto secreto' e fim da eliminação em duplas; entenda
+Transformed: BBB 25 anuncia 'quarto secreto' e fim da eliminação em duplas; entendam, ou não entendam, o que quiserem, o importante é ter um bom “quarto de estar”.
+================================================================================
+ID: 25
+Model: gemma3:27b few_shot
+Original: Karla Sofía Gascón x Fernanda Torres: a polêmica que pode custar o Oscar
+Transformed: Karla Sofía Gascón x Fernanda Torres: a polêmica que pode custar o Oscar... e a paz de espírito de ambas.
+================================================================================
+ID: 26
+Model: gemma3:27b few_shot
+Original: Neymar vai beijar o escudo do Santos FC? BET cria aposta sobre apresentação do jogador
+Transformed: Neymar vai beijar o escudo do Santos FC? BET cria aposta sobre apresentação do jogador… e o guarda-metas está a tremer!
+================================================================================
+ID: 27
+Model: gemma3:27b few_shot
+Original: Gabigol desencanta no primeiro jogo do Cruzeiro sem Diniz e volta a anotar hat-trick depois de 3 anos
+Transformed: Gabigol desencanta no primeiro jogo do Cruzeiro sem Diniz e volta a anotar hat-trick depois de 3 anos. Parece que o gol é a sua religião, e o Diniz, o ex-padre.
+================================================================================
+ID: 28
+Model: gemma3:27b few_shot
+Original: No retorno ao Maracanã, Flamengo vence Sampaio Corrêa pelo Campeonato Carioca
+Transformed: No retorno ao Maracanã, Flamengo sambou no Sampaio Corrêa pelo Campeonato Carioca.
+================================================================================
+ID: 29
+Model: gemma3:27b few_shot
+Original: Filipe Luís projeta Flamengo para Supercopa e abre o jogo sobre estreia de Danilo
+Transformed: Filipe Luís projeta Flamengo para Supercopa e abre o jogo sobre estreia de Danilo, mas não revela se vai ser a la carte ou à Kilo.
+================================================================================
+ID: 30
+Model: gemma3:27b few_shot
+Original: Champions League sorteia nesta sexta-feira os cruzamentos dos playoffs e oitavas de final. Confira os times e o chaveamento
+Transformed: Champions League sorteia nesta sexta-feira os cruzamentos dos playoffs e o chaveamento. Espero que ninguém se deschave!
+================================================================================

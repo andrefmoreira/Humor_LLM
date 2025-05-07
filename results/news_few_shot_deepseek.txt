@@ -1,0 +1,213 @@
+ID: 1
+Model: deepseek-r1:70b zero_shot
+Original: Restos de salmoura no asteroide Bennu contêm minerais essenciais para a vida.
+Transformed: 
+
+"Restos de salmourinha no asteroide Bem-nutra contêm mim é que ris para a vida."
+================================================================================
+ID: 2
+Model: deepseek-r1:70b zero_shot
+Original: Starlink Direct to Cell passa a disponibilizar 4G via satélite para todos os smartphones
+Transformed: 
+
+"Estrelink Direto no Céu passa a disparar bilhetes via satélite para todos os smartphones."
+================================================================================
+ID: 3
+Model: deepseek-r1:70b zero_shot
+Original: O preço do Samsung Galaxy S25 cai a pique com os descontos na Samsung
+Transformed: 
+
+"O preço do Samsung Galaxy S25 cai a pique e o Sam Sung não para de cantar com os descontos na loja."
+================================================================================
+ID: 4
+Model: deepseek-r1:70b zero_shot
+Original: O teu Smartphone está a ouvir as tuas conversas (com a tua autorização)
+Transformed: 
+
+"O teu Smartelefone está a vous as tuas conversas (sem autêntica autorização)."
+================================================================================
+ID: 5
+Model: deepseek-r1:70b zero_shot
+Original: Vodafone realiza primeira videochamada espacial do mundo com smartphone
+Transformed: 
+
+Vodafone realiza priMEIra Lua de videochamada espacial do mundo com smartphone.
+================================================================================
+ID: 6
+Model: deepseek-r1:70b zero_shot
+Original: "Não daria à minha filha um vibrador aos 12 anos. Não posso é condenar"
+Transformed: 
+
+The transformed sentence maintains the original structure while incorporating a wordplay by replacing "vibrador" with "violinista," creating a humorous effect through the similarity in sound.
+
+**Transformed Sentence:**
+"Não daria à minha filha um violinista aos 12 anos. Não posso é condenar."
+================================================================================
+ID: 7
+Model: deepseek-r1:70b zero_shot
+Original: A Semente do Figo Sagrado: o melhor filme do iraniano Mohammad Rasoulof
+Transformed: 
+
+"A Semente do Frio Sagrado: o melhor filme do iraniano Mohammad Arrozof."
+================================================================================
+ID: 8
+Model: deepseek-r1:70b zero_shot
+Original: E assim foi o terceiro episódio de "A Herança"
+Transformed: 
+
+E assim foi o terceiro tesouro de "A Herança".
+================================================================================
+ID: 9
+Model: deepseek-r1:70b zero_shot
+Original: Não gostou, mas usou! Vânia Sá veste polémico vestido de Inês Morais após discussões sem fim
+Transformed: 
+
+"Não gostou, mas usou! Vânia Não veste polémico vestido de Inês de Mais após discussões sem fim."
+================================================================================
+ID: 10
+Model: deepseek-r1:70b zero_shot
+Original: Falámos com José Condessa. Eis o que esperar do futuro de 'Rabo de Peixe'
+Transformed: 
+
+Falámos com José Anchovessa. Eis o que esperar do futuro de 'Rabo de Peixe'.
+================================================================================
+ID: 11
+Model: deepseek-r1:70b zero_shot
+Original: 'Loucura'. Portugal fez história no Mundial de andebol e festejou assim
+Transformed: 
+
+"'Loucura'. Portugal fez gols-tória no Mundial de andebol e festejou assim."
+================================================================================
+ID: 12
+Model: deepseek-r1:70b zero_shot
+Original: Harder não esquece golo da qualificação do Sporting com o selo de três sub-19: "Este foi especial!"
+Transformed: 
+
+Harder não esqueceu a bola toda da qualificação do Sporting com o selo de três sub-19: "Este foi especial!"
+================================================================================
+ID: 13
+Model: deepseek-r1:70b zero_shot
+Original: Liga Europa: o onze provável do FC Porto na estreia de Martín Anselmi
+Transformed: 
+
+"Liguei pro técnico: o onze provável do Faz Contas no Técnico na estréia de 'Martim Ans Elmo'."
+================================================================================
+ID: 14
+Model: deepseek-r1:70b zero_shot
+Original: Juventus-Benfica, 0-2 Os destaques do Benfica: Um, dois, três... tantos Florentinos
+Transformed: 
+
+Juventus-Benfica, 0-2 Os destaques do Benfica: Um, dois, três... tantos Florzinhos.
+================================================================================
+ID: 15
+Model: deepseek-r1:70b zero_shot
+Original: Entre 64 golos em 18 jogos, havia um que podia cruzar Benfica e Sporting: os possíveis adversários dos portugueses na Champions
+Transformed: 
+
+Entre 64 gols em 18 jogos, havia um que podia cruzar Bem-fica e Sportinguém: os possíveis adversários dos portugueses na Champions.
+================================================================================
+ID: 16
+Model: deepseek-r1:70b zero_shot
+Original: Xiaomi lança linha Redmi Note 14 no Brasil com variante Pro Plus; veja os preços
+Transformed: 
+
+"Reagemi Note 14: Xi que Mi? Lançado na Note com variante Pro Mais; veja o preço!"
+================================================================================
+ID: 17
+Model: deepseek-r1:70b zero_shot
+Original: Como escolher o notebook ideal: guia de modelos básicos, para trabalho/estudo, 2 em 1, jogos e topo de linha
+Transformed: 
+
+Como escolher o notebook ideal: guia de modelos que dão nóis, pra trabaiado/estudo, 2 em 1, que virou 2 em 1 na mão, joguinhos e tapa da tigela.
+================================================================================
+ID: 18
+Model: deepseek-r1:70b zero_shot
+Original: NASA se pronuncia sobre asteroide que pode atingir a Terra em 2032
+Transformed: 
+
+"Nascimento se 're'cita sobre asteroide que pode virar música na Terra em 2032."
+================================================================================
+ID: 19
+Model: deepseek-r1:70b zero_shot
+Original: Honor anuncia estreia oficial no Brasil com celulares, tablets e mais dispositivos
+Transformed: 
+
+"Hóner a noutra que veio pro Brasil com células de estilo, tabletes de moda e vários aparelhos."
+================================================================================
+ID: 20
+Model: deepseek-r1:70b zero_shot
+Original: A Apple não quer mais os iPhones ficando sem internet
+Transformed: 
+
+"A Apple não quer mais os iPhones sem minhete. Senão, vão chamar de iornelas!"
+================================================================================
+ID: 21
+Model: deepseek-r1:70b zero_shot
+Original: Vinícius analisa romance de Aline no BBB 25: 'Em duas semanas pega bode'
+Transformed: 
+
+Vinícius analisa romance de Alínea no BBB 25: 'Em duas semanas, pegaboi dê'.
+================================================================================
+ID: 22
+Model: deepseek-r1:70b zero_shot
+Original: Rodrigo Bocardi é demitido da Globo sob acusação de 'descumprir normas éticas'
+Transformed: 
+
+Rodrigo Bocardi é demitido da Globo sob acusação de 'descumprir normas pãnicas'.
+================================================================================
+ID: 23
+Model: deepseek-r1:70b zero_shot
+Original: BBB 25: Acompanhe a 3ª Prova do Líder e veja os gabaritos!
+Transformed: 
+
+BBB 25: Acompanhe a 3ª Prova do Líder e veja os gatos! 🐱
+================================================================================
+ID: 24
+Model: deepseek-r1:70b zero_shot
+Original: BBB 25 anuncia 'quarto secreto' e fim da eliminação em duplas; entenda
+Transformed: 
+
+"BBB 25 anuncia 'quarto sujo' e fim da eliminação em duplas de meia; entenda."
+================================================================================
+ID: 25
+Model: deepseek-r1:70b zero_shot
+Original: Karla Sofía Gascón x Fernanda Torres: a polêmica que pode custar o Oscar
+Transformed: 
+
+"Carregar Sofá em Câncer x Fernandu Torrões: a polêmica que pode custar o Oscar."
+================================================================================
+ID: 26
+Model: deepseek-r1:70b zero_shot
+Original: Neymar vai beijar o escudo do Santos FC? BET cria aposta sobre apresentação do jogador
+Transformed: 
+
+Neymar vai beijar o escudo do Santos FC? BET cria aposta sobre apostas do jogador.
+================================================================================
+ID: 27
+Model: deepseek-r1:70b zero_shot
+Original: Gabigol desencanta no primeiro jogo do Cruzeiro sem Diniz e volta a anotar hat-trick depois de 3 anos
+Transformed: 
+
+Gabigol desboca no primeiro jogo do Cruzeiro sem Diniz e volta a marcar três gols em três anos… ou três em uma tacada!
+================================================================================
+ID: 28
+Model: deepseek-r1:70b zero_shot
+Original: No retorno ao Maracanã, Flamengo vence Sampaio Corrêa pelo Campeonato Carioca
+Transformed: 
+
+"No returNO ao Maracanã, Flamengo vence Sampaiu na Correria pelo Campeonato Carioca."
+================================================================================
+ID: 29
+Model: deepseek-r1:70b zero_shot
+Original: Filipe Luís projeta Flamengo para Supercopa e abre o jogo sobre estreia de Danilo
+Transformed: 
+
+"Filipe Lulá projeta Flamengo para Supercopa e abre o jogo sobre estreia de Dánilo."
+================================================================================
+ID: 30
+Model: deepseek-r1:70b zero_shot
+Original: Champions League sorteia nesta sexta-feira os cruzamentos dos playoffs e oitavas de final. Confira os times e o chaveamento
+Transformed: 
+
+Champions League sor-teia nesta sexta-feira os crustáceos dos playoffs e oitavas de final. Confira os times e o chaveamento.
+================================================================================

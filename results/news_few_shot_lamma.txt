@@ -1,0 +1,120 @@
+ID: 1
+Original: Restos de salmoura no asteroide Bennu contêm minerais essenciais para a vida.
+Transformed: "Restos de salmoura no asteroide Bennu são o 'sal' da terra, contendo minerais essenciais para a 'vida' após a ressaca."
+================================================================================
+ID: 2
+Original: Starlink Direct to Cell passa a disponibilizar 4G via satélite para todos os smartphones
+Transformed: "Starlink Direto ao Céu passa a disponibilizar 4G via estrela para todos os celulares estelares"
+================================================================================
+ID: 3
+Original: O preço do Samsung Galaxy S25 cai a pique com os descontos na Samsung
+Transformed: "O preço do Samsung Galaxy S25 desmorona como um Castelo de Areia com os descontos na Samsung, é uma queda que nem o Sandro Silva consegue segurar!"
+================================================================================
+ID: 4
+Original: O teu Smartphone está a ouvir as tuas conversas (com a tua autorização)
+Transformed: "O teu Smartphone está a escutar as tuas conversas (com a tua autor-idade para bisbilhotar)"
+================================================================================
+ID: 5
+Original: Vodafone realiza primeira videochamada espacial do mundo com smartphone
+Transformed: Vodafail realiza primeira chamada perdida no espaço sideral do universo com smartfone sem sinal.
+================================================================================
+ID: 6
+Original: "Não daria à minha filha um vibrador aos 12 anos. Não posso é condenar"
+Transformed: "Não daria à minha filha um vibração aos 12 anos. Não posso é condená-la a uma vida de choque."
+================================================================================
+ID: 7
+Original: A Semente do Figo Sagrado: o melhor filme do iraniano Mohammad Rasoulof
+Transformed: A Semente do Figurino Sagrado: o melhor filme do iraniano Maomé Raspoulof.
+================================================================================
+ID: 8
+Original: E assim foi o terceiro episódio de "A Herança"
+Transformed: E assim foi o terceiro capítulo de "A Herançado"
+================================================================================
+ID: 9
+Original: Não gostou, mas usou! Vânia Sá veste polémico vestido de Inês Morais após discussões sem fim
+Transformed: "Não gostou, mas vestiu a camisa! Vânia Sá calça polémico sapato de Inês Morais após discussões sem cadarço"
+================================================================================
+ID: 10
+Original: Falámos com José Condessa. Eis o que esperar do futuro de 'Rabo de Peixe'
+Transformed: Falámos com José Condessa. Eis o que pescar do futuro de 'Peixe Rabo'
+================================================================================
+ID: 11
+Original: 'Loucura'. Portugal fez história no Mundial de andebol e festejou assim
+Transformed: "'Mão-dalidade'. Portugal deu a mão à vitória no Mundial de andebol e comemorou com muita pegada"
+================================================================================
+ID: 12
+Original: Harder não esquece golo da qualificação do Sporting com o selo de três sub-19: "Este foi especial!"
+Transformed: "Harder não desgola a memória do golo da qualificação do Sporting com o selo de três sub-19: "Este foi um golpe especial, marcou pontos!"
+================================================================================
+ID: 13
+Original: Liga Europa: o onze provável do FC Porto na estreia de Martín Anselmi
+Transformed: Liga Europa: o onze improvável do FC Porto na estréia de Martín Anselmi, ou será que é o Onze Pó?
+================================================================================
+ID: 14
+Original: Juventus-Benfica, 0-2 Os destaques do Benfica: Um, dois, três... tantos Florentinos
+Transformed: "Juventus-Benfica, 0-2 Os destaques do Benfica: Um, dois, três... tantos Florentinos que pareciam estar a jogar com uma mão de cartas marcadas, pois tinham todas as ás na manga!"
+================================================================================
+ID: 15
+Original: Entre 64 golos em 18 jogos, havia um que podia cruzar Benfica e Sporting: os possíveis adversários dos portugueses na Champions
+Transformed: "Entre 64 golos em 18 jogos, havia um que podia dar um pontapé na rivalidade: os possíveis adversários dos portugueses na Liga dos Campeões, onde o Benfica e o Sporting estavam a fazer um 'jogo de cruzes'."
+================================================================================
+ID: 16
+Original: Xiaomi lança linha Redmi Note 14 no Brasil com variante Pro Plus; veja os preços
+Transformed: Xiaomi lança linha Vermelho Mi Note 14 no Brasil com variante Pró-Plus Size; veja os preços que não vão dar nota zero.
+================================================================================
+ID: 17
+Original: Como escolher o notebook ideal: guia de modelos básicos, para trabalho/estudo, 2 em 1, jogos e topo de linha
+Transformed: "Como escolher o notebook ideal: guia de modelos básicos, para trabalho/estudo, 2 em 1, jogos e topo da linha... ou pelo menos não fica na última página"
+================================================================================
+ID: 18
+Original: NASA se pronuncia sobre asteroide que pode atingir a Terra em 2032
+Transformed: "NASA se pronuncia sobre asteroide que pode dar um 'aster' na Terra em 2032"
+================================================================================
+ID: 19
+Original: Honor anuncia estreia oficial no Brasil com celulares, tablets e mais dispositivos
+Transformed: Honor anuncia estreia oficial no Brasil com celulites, tabletes e mais dispositivos para emagrecer.
+================================================================================
+ID: 20
+Original: A Apple não quer mais os iPhones ficando sem internet
+Transformed: A Maçã não quer mais os iPhones caindo da rede.
+================================================================================
+ID: 21
+Original: Vinícius analisa romance de Aline no BBB 25: 'Em duas semanas pega bode'
+Transformed: "Vinícius analisa romance de Aline no BBB 25: 'Em duas semanas pega cabrito'"
+================================================================================
+ID: 22
+Original: Rodrigo Bocardi é demitido da Globo sob acusação de 'descumprir normas éticas'
+Transformed: Rodrigo Bocardi é demitido da Globo sob acusação de 'boca-rdar' as regras éticas.
+================================================================================
+ID: 23
+Original: BBB 25: Acompanhe a 3ª Prova do Líder e veja os gabaritos!
+Transformed: BBB 25: Acompanhe a 3ª Prova do Líder e veja os gaba-ritos!
+================================================================================
+ID: 24
+Original: BBB 25 anuncia 'quarto secreto' e fim da eliminação em duplas; entenda
+Transformed: BBB 25 anuncia 'cama compartilhada' e fim da eliminação em casais; dormida.
+================================================================================
+ID: 25
+Original: Karla Sofía Gascón x Fernanda Torres: a polêmica que pode custar o Oscar
+Transformed: "Karla Sofía Gascón x Fernanda Torres: a polêmica que pode roubar a cena e levar o prêmio para o 'Torres de Poder'"
+================================================================================
+ID: 26
+Original: Neymar vai beijar o escudo do Santos FC? BET cria aposta sobre apresentação do jogador
+Transformed: Neymar vai selar o compromisso com o escudo do Santos FC? BET cria aposta sobre a "boca" da apresentação do jogador.
+================================================================================
+ID: 27
+Original: Gabigol desencanta no primeiro jogo do Cruzeiro sem Diniz e volta a anotar hat-trick depois de 3 anos
+Transformed: Gabigol desencaixa no primeiro jogo do Cruzeiro sem Diniz e volta a dar um chapéu após 3 anos.
+================================================================================
+ID: 28
+Original: No retorno ao Maracanã, Flamengo vence Sampaio Corrêa pelo Campeonato Carioca
+Transformed: "No regresso ao estádio, Flamengo derrota Sampaio e corrige a rota pelo Campeonato Carioca."
+================================================================================
+ID: 29
+Original: Filipe Luís projeta Flamengo para Supercopa e abre o jogo sobre estreia de Danilo
+Transformed: "Filipe Luís ilumina o Flamengo para a Supercopa e acende o fogo sobre a estreia do Dinamilo"
+================================================================================
+ID: 30
+Original: Champions League sorteia nesta sexta-feira os cruzamentos dos playoffs e oitavas de final. Confira os times e o chaveamento
+Transformed: "Champions Liguei sorteia nesta sexta-feira os cruzamentos dos playoffs e oitavas de final, mas parece que alguns times já estão ligados para perder. Confira os times e o chaveamento, ou melhor, o deschaveamento!"
+================================================================================
