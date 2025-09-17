@@ -61,6 +61,6 @@ pip install -r requirements.txt
 
 ## Notes
 
-The repository does not provide pre-trained models; you must have your Ollama models installed locally.
-Since models run locally, GPU/CPU performance will affect generation speed.
-Ensure Python scripts point to the correct local Ollama model paths.
+1. The repository does not provide pre-trained models; you must have your Ollama models installed locally.
+2. Since models run locally, GPU/CPU performance will affect generation speed.
+3. Ensure Python scripts point to the correct local Ollama model paths.
